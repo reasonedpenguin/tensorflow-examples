@@ -1,0 +1,4 @@
+*.tfrecords
+*.tfrecords.meta
+venv
+__pycache__
